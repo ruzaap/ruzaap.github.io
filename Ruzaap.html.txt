@@ -18,6 +18,8 @@ Link to privacy policy of third party service providers used by the app
 Google Play Services  ( https://www.google.com/policies/privacy/ )
 Firebase Analytics    ( https://firebase.google.com/policies/analytics )
 StartApp Ads          ( https://www.startapp.com/policy/privacy-policy/ )
+Onesignal (For sending timely notifications) (https://onesignal.com/privacy_policy )
+Enhance               ( https://enhance.co/about/privacy-policy )
 
 Log Data
 
